@@ -1,5 +1,6 @@
 // JavaScript Document
 //Javascript code written by Swarnendu AcerLaptop
+//Monnmoon add some Js comment
 $(window).load(function () {
     "use strict";
     // makes sure the whole site is loaded
